@@ -14,4 +14,4 @@
 
 # To a storage bucket in AWS S3 is pretty simple. First, make sure you have an AWS account and log in to the AWS Management Console.Then head to the S3 service and click Create bucket. Give your bucket a unique name, pick the region closest to you, and adjust settings like versioning, encryption, and access permissions. Once the bucket is ready, you can upload files directly through the console if you prefer working with commands. To control who can access your files, set up permissions using bucket policies.
 
-**OUTPUT OF THE TASK**: s3://navinawsbucket01/Example files/
+**OUTPUT OF THE TASK**: [s3://navinawsbucket01/Example files/](https://ap-southeast-1.console.aws.amazon.com/s3/buckets/navinawsbucket01?region=ap-southeast-1&bucketType=general&tab=objects)
